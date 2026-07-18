@@ -25,6 +25,11 @@ A simple Python application that allows users to:
 - Calculates the difference between two dates.
 - Displays the selected month's calendar.
 
+## Screenshot
+
+<img width="1432" height="771" alt="image" src="https://github.com/user-attachments/assets/52c6278c-7296-47e2-a8b7-2237e81ce1bd" />
+
+
 ## Author
 
 Abdalaziz Bahaa
